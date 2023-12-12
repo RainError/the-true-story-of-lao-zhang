@@ -2,10 +2,10 @@ encoding: utf-8
 
 # SEO相关信息
 title: 老张正传
-description: 老张正传
+description: 你都在写什么玩意啊
 keywords: 老张正传
 author: r
-footerText: 'Copyright © 2023 r'
+footerText: 'Copyright © 2023 Rain-0x01 and her friends'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
